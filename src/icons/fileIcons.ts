@@ -2508,5 +2508,10 @@ export const fileIcons: FileIcons = {
         '.k8s.yaml',
       ],
     },
+    {
+      name: 'solid',
+      fileExtensions: ['tsx'],
+      enabledFor: [IconPack.Solid],
+    },
   ],
 };
